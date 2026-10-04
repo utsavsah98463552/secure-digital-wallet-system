@@ -12,7 +12,7 @@ Developed progressively across an **8-Week Software Development Lifecycle (SDLC)
 | :---: | :--- | :--- | :---: |
 | **Week 1** | **Project Initiation & Foundation** | Requirements SRS, System Architecture Blueprint, Environment Configuration, Base Flask Factory | ✅ **Done** |
 | **Week 2** | **Database Schema & Persistence** | Relational SQLite Schema (`users`, `wallets`, `transactions`), Context Managers, Indexing | ✅ **Done** |
-| **Week 3** | **Cryptography Subsystem** | `Fernet` Key Management, Transaction Note Encryption/Decryption, `bcrypt` Hashing Utilities | ⏳ Planned |
+| **Week 3** | **Cryptography Subsystem** | `Fernet` Key Management, Transaction Note Encryption/Decryption, `bcrypt` Hashing Utilities | ✅ **Done** |
 | **Week 4** | **Authentication & 2FA (TOTP)** | User Registration, Credential Verification, Time-based OTP via `pyotp`, Session Security | ⏳ Planned |
 | **Week 5** | **Wallet Core & Balance Management** | Auto Wallet Provisioning, Balance Inquiries, Fund Loading Service & Unit Tests | ⏳ Planned |
 | **Week 6** | **Peer-to-Peer Transfer Engine** | Atomic Transaction Processing, ACID Double-Entry Ledger, Rollback Verification | ⏳ Planned |
@@ -89,5 +89,7 @@ secure-digital-wallet/
 
 - [System Architecture Blueprint](docs/architecture.md)
 - [Database Architecture & Schema](docs/database.md)
+- [Security & Cryptography Specification](docs/security.md)
 - [Week 1 Progress Report](docs/week1_progress_report.md)
 - [Week 2 Progress Report](docs/week2_progress_report.md)
+- [Week 3 Progress Report](docs/week3_progress_report.md)

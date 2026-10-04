@@ -5,9 +5,9 @@
 **Academic Term:** Capstone Project / Final Year Project (8-Week Lifecycle)  
 **Reporting Period:** Week 1 — Project Initiation, Requirement Engineering & Architecture Setup  
 **Submission Date:** October 5, 2026  
-**Student Name:** [Your Name / Roll No.]  
+**Student Name:** [Utsav Sah]  
 **Project Supervisor:** [Supervisor / Professor Name]  
-**Repository Link:** [https://github.com/your-username/secure-digital-wallet](https://github.com/your-username/secure-digital-wallet)
+**Repository Link:** [https://github.com/utsavsah98463552/secure-digital-wallet-system]
 
 ---
 
